@@ -38,7 +38,8 @@ El script `deploy.sh` se creo manualmente desde el entorno de visual, creando pr
 
 
 ## Captura de Pantalla
-![Captura del contenedor funcionando](./images/image 1 (1).png)
+![Captura 1](./images/image%201%20%282%29.png)
+
 
 ## Mejoras Futuras
 1. **Automatizar todo el proceso en la nube:**  
